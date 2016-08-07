@@ -1,1 +1,3 @@
 # starter
+
+study the github
